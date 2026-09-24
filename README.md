@@ -2,7 +2,7 @@
 
 > 按量计费，$1 起充，OpenAI 兼容接口。 **default $0.0206; 1K $0.0206; 2K $0.0206**
 
-**[模型页](https://apimart.ai/model) · [实时价格](https://apimart.ai/pricing) · [获取 API Key](https://apimart.ai/keys)**
+**[模型页](https://go.apimart.ai/k-953482) · [实时价格](https://go.apimart.ai/k-74cff4) · [获取 API Key](https://go.apimart.ai/k-c667b5)**
 
 ## 价格（快照 2026-09-24）
 
