@@ -1,0 +1,14 @@
+{
+  "repo": "qwenimage3.0-qwen-image-3.0-api-cn",
+  "model": "qwen-image-3.0",
+  "display": "Qwen-Image 3.0",
+  "variant": "model-cn",
+  "snapshot": "2026-09-24",
+  "unit": "usd_per_image",
+  "tiers": {
+    "default": 0.0205712,
+    "1K": 0.0205712,
+    "2K": 0.0205712
+  },
+  "source": "https://apimart.ai/en/pricing"
+}
